@@ -1,2 +1,2 @@
-# UIPATH-AutomationChallange
+# UIPATH-AutomationChallenge
 Type into a dynamic web page.
